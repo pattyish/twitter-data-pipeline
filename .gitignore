@@ -1,0 +1,4 @@
+/env
+.vscode
+.env
+Ec2-airflow-key.pem
